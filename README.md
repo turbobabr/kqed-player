@@ -1,6 +1,6 @@
 # KQED Player
 
-A lightweight KQED live stream playerfor macOS
+A lightweight KQED live stream player for macOS
 
 ![demo](https://github.com/turbobabr/kqed-player/raw/master/demo.gif)
 
